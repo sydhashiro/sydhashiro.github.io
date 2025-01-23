@@ -3,24 +3,24 @@
     "name": "Sydney Hashiro",
     "label": "Student",
     "picture": "https://github.com/kambergjohnson.png",
-    "email": "molly@hawaii.edu",
+    "email": "sydneych@hawaii.edu",
     "phone": "",
-    "website": "https://mmaluhia.github.io",
-    "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2024.",
+    "website": "https://sydhashiro.github.io",
+    "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2026.",
     "location": { "address": "", "postalCode": "", "city": "", "countryCode": "", "region": "" },
     "profiles": [
-      { "network": "github", "username": "sydhashiro", "url": "http://github.com/changeme" },
-      { "network": "linkedin", "username": "mollymaluhia", "url": "http://linkedin.com/in/changeme" },
-      { "network": "twitter", "username": "mollymal", "url": "http://twitter.com/changeme" },
-      { "network": "instagram", "username": "molly", "url": "http://instagram.com/changeme" }
+      { "network": "github", "username": "sydhashiro", "url": "http://github.com/sydhashiro" },
+      { "network": "linkedin", "username": "", "url": "http://linkedin.com/in/changeme" },
+      { "network": "twitter", "username": "", "url": "http://twitter.com/changeme" },
+      { "network": "instagram", "username": "", "url": "http://instagram.com/changeme" }
     ]
   },
   "interests": [
-    { "name": "Interactive media" },
-    { "name": "Neuromorphic Computing" },
-    { "name": "Quantum Computing" },
-    { "name": "Robotics" },
-    { "name": "3D Graphics" }
+    { "name": "Cybersecurity" },
+    { "name": "Game Development" },
+    { "name": "Software Engineering" },
+    
+    
   ],
   "skills": [
     {
