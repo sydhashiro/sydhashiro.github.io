@@ -2,7 +2,7 @@
   "basics": {
     "name": "Sydney Hashiro",
     "label": "Student",
-    "picture": "https://github.com/kambergjohnson.png",
+    "picture": "https://github.com/sydhashiro.png",
     "email": "sydneych@hawaii.edu",
     "phone": "",
     "website": "https://sydhashiro.github.io",
@@ -10,9 +10,7 @@
     "location": { "address": "", "postalCode": "", "city": "", "countryCode": "", "region": "" },
     "profiles": [
       { "network": "github", "username": "sydhashiro", "url": "http://github.com/sydhashiro" },
-      { "network": "linkedin", "username": "", "url": "http://linkedin.com/in/changeme" },
-      { "network": "twitter", "username": "", "url": "http://twitter.com/changeme" },
-      { "network": "instagram", "username": "", "url": "http://instagram.com/changeme" }
+      { "network": "linkedin", "username": "sydneyhashiro", "url": "https://www.linkedin.com/in/sydney-hashiro-23baa7348/" },
     ]
   },
   "interests": [
@@ -25,7 +23,7 @@
   "skills": [
     {
       "name": "Languages and Frameworks",
-      "keywords": [ "C", "C++", "Java", "Javascript", "Assembly", "Common Lisp" ]
+      "keywords": [ "C", "C++", "Java", "Javascript"]
     },
     {
       "name": "Toolsets/OS",
