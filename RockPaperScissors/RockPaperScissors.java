@@ -7,7 +7,7 @@ public class RockPaperScissors {
         Scanner scanner = new Scanner(System.in);
         Random random = new Random();
 
-        System.out.println("Welcome to Rock-Paper-Scissors!");
+        System.out.println("Welcome to Rock Paper Scissors!");
 
         while (true) {
             // Get user's choice
