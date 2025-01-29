@@ -22,3 +22,5 @@ Rock beats Scissors: Rock crushes Scissors.
 Scissors beat Paper: Scissors cut Paper.
 Paper beats Rock: Paper covers Rock.
 If both players choose the same, the result is a tie.
+
+Link to game: https://github.com/sydhashiro/sydhashiro.github.io/blob/main/RockPaperScissors/RockPaperScissors.java
