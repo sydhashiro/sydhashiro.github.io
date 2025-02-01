@@ -10,7 +10,7 @@ labels:
 summary: "Let's you compare the damage, cost, fire rate of the weapons in the game Valorant"
 ---
 <p align="center">
-  <img src="sydhashiro.github.io/img/ValorantWC.jpg" width="1000">
+  <img src="https://github.com/sydhashiro/sydhashiro.github.io/blob/4e5fa5598264d64aa7422099b6070d0237eb8a8e/img/ValorantWC.jpg" width="1000">
 </p>
 
   
