@@ -20,5 +20,4 @@ As the sole developer, I designed the object-oriented architecture, implemented 
 
 This project enhanced my skills in object-oriented programming, GUI development, and algorithmic problem-solving. It deepened my understanding of data organization, UI design, and debugging. Looking forward, potential improvements include integrating Riot Games' API for real-time updates, adding detailed damage breakdowns, and transitioning the interface to JavaFX for a more modern look
 
-Link to game: 
-https://github.com/sydhashiro/sydhashiro.github.io/tree/main/Valorant%20Weapon%20Comparison
+[Valorant Weapon Comparison (https://github.com/sydhashiro/sydhashiro.github.io/tree/main/Valorant%20Weapon%20Comparison)]
