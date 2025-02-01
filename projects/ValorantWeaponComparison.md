@@ -20,4 +20,4 @@ As the sole developer, I designed the object-oriented architecture, implemented 
 
 This project enhanced my skills in object-oriented programming, GUI development, and algorithmic problem-solving. It deepened my understanding of data organization, UI design, and debugging. Looking forward, potential improvements include integrating Riot Games' API for real-time updates, adding detailed damage breakdowns, and transitioning the interface to JavaFX for a more modern look
 
-Source: <a href="[https://github.com/jogarces/ics-313-text-game](https://github.com/sydhashiro/sydhashiro.github.io/tree/b170e48e0f715fb11c70b728182760355c156548/Valorant%20Weapon%20Comparison)"><i class="large github icon "></i>jogarces/ics-313-text-game</a>
+[Valorant Comparison Tool](https://github.com/sydhashiro/sydhashiro.github.io/tree/b170e48e0f715fb11c70b728182760355c156548/Valorant%20Weapon%20Comparison)
