@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/RockPaperScissors.jpeg
+image: img/rock-paper-scissors-seamless-pattern-vector.png
 title: "Rock, Paper, Scissors"
 date: 2022
 published: true
