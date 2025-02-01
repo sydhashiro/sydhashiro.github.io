@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/valorant.jpg
+image: img/val.png
 title: "Valorant Comparison Tool"
 date: 2023
 published: true
