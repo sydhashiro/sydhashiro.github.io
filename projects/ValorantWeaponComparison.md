@@ -10,11 +10,8 @@ labels:
 summary: "Let's you compare the damage, cost, fire rate of the weapons in the game Valorant"
 ---
 <p align="center">
-  <img src="https://github.com/sydhashiro/sydhashiro.github.io/blob/4e5fa5598264d64aa7422099b6070d0237eb8a8e/img/ValorantWC.jpg" width="1000">
+  <img src="https://github.com/sydhashiro/sydhashiro.github.io/blob/4e5fa5598264d64aa7422099b6070d0237eb8a8e/img/ValorantWC.jpg" width="800">
 </p>
-
-  
-</div>
 
 The Valorant Weapon Comparison Tool is a Java-based desktop application designed to help players compare weapons in Valorant. Using a simple and intuitive Java Swing interface, users can select two weapons and analyze key attributes such as damage, fire rate, magazine size, and cost. The tool highlights the superior stats in each category, making it easier for players to make informed choices. Weapon data is stored in a HashMap, ensuring quick access and efficient comparisons without the need for external resources.
 
