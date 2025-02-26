@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: "Coding Standards: Annoying but Necessary"
+title: "HTML & CSS Got the Job Done… But Bootstrap 5 Did It Faster"
 # All dates must be YYYY-MM-DD format!
 date: 2025-02-26
 published: true
