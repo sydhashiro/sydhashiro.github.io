@@ -53,12 +53,12 @@ One of the biggest improvements was how quickly I could create layouts and respo
 
 For example, I used to spend a lot of time positioning elements and making sure everything lined up correctly. With Bootstrap, I could write something like this:
 
-  <div class="container">
-    <div class="row">
-      <div class="col-md-6">Left Column</div>
-      <div class="col-md-6">Right Column</div>
-    </div>
-  </div>
+      <div class="container">
+        <div class="row">
+          <div class="col-md-6">Left Column</div>
+        <div class="col-md-6">Right Column</div>
+          </div>
+      </div>
 
 This simple code would create a two-column layout that adjusted perfectly on different screen sizes. Before, I would have had to write extra CSS to get the same effect.
 
