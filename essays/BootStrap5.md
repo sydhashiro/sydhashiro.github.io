@@ -78,7 +78,8 @@ Even though HTML and CSS are still important, Bootstrap helps speed up the proce
 Left: Original homepage | Right: My recreation using Bootstrap 5
 
 <img width="200px" class="rounded float-start pe-4" src="img/HNLCC/comparisonHNLC.jpg">
-![Comparison of Original vs. Bootstrap Recreation](https://github.com/sydhashiro/sydhashiro.github.io/blob/main/img/comparisonHNLC.png)
+
+![Comparison of Original vs. Bootstrap Recreation](img/HNLCC/comparisonHNLC.jpg)
 
 
 I used AI to help organize my ideas, check grammar, and improve readability, but the content is based on my own experience learning Bootstrap 5. 
