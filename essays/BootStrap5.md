@@ -53,13 +53,12 @@ One of the biggest improvements was how quickly I could create layouts and respo
 
 For example, I used to spend a lot of time positioning elements and making sure everything lined up correctly. With Bootstrap, I could write something like this:
 
-```html
-<div class="container">
-  <div class="row">
-    <div class="col-md-6">Left Column</div>
-    <div class="col-md-6">Right Column</div>
+  <div class="container">
+    <div class="row">
+      <div class="col-md-6">Left Column</div>
+      <div class="col-md-6">Right Column</div>
+    </div>
   </div>
-</div>
 
 This simple code would create a two-column layout that adjusted perfectly on different screen sizes. Before, I would have had to write extra CSS to get the same effect.
 
@@ -77,7 +76,8 @@ Even though HTML and CSS are still important, Bootstrap helps speed up the proce
 
 ## Recreation With Bootstrap5
 Left: Original homepage | Right: My recreation using Bootstrap 5
-![Comparison of HTML/CSS vs. Bootstrap 5](img/HNLCC/comparison HNLC.png)
+
+![Comparison of Original vs. Bootstrap Recreation](img/HNLCC/comparison%20HNLC.png)
 
 
 I used AI to help organize my ideas, check grammar, and improve readability, but the content is based on my own experience learning Bootstrap 5. 
