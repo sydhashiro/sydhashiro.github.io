@@ -64,8 +64,10 @@ For example, I used to spend a lot of time positioning elements and making sure 
 This simple code would create a two-column layout that adjusted perfectly on different screen sizes. Before, I would have had to write extra CSS to get the same effect.
 
 I also realized that Bootstrap’s pre-styled components saved me a lot of time. Instead of designing and styling every button from scratch, I could just use Bootstrap’s built-in classes:
-```html
-<button class="btn btn-primary">Click Me</button>
+
+    <button class="btn btn-primary">Click Me</button>
+
+
 
 ## Final Thoughts
 
