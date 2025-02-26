@@ -77,7 +77,7 @@ Even though HTML and CSS are still important, Bootstrap helps speed up the proce
 ## Recreation With Bootstrap5
 Left: Original homepage | Right: My recreation using Bootstrap 5
 
-<img width="500px" class="rounded float-start pe-4" src="https://github.com/sydhashiro/sydhashiro.github.io/blob/main/img/HNLCC/comparisonHNLC.jpg">
+<img width="200px" class="rounded float-start pe-4" src="https://github.com/sydhashiro/sydhashiro.github.io/blob/main/img/HNLCC/comparisonHNLC.jpg">
 
 
 
