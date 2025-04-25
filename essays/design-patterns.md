@@ -1,55 +1,40 @@
 ---
 layout: essay
 type: essay
-title: "Design Patterns: Stuff I Was Already Doing, Apparently"
-date: 2025-04-24
+title: "Stepping into TypeScript"
+date: 2025-01-24
 published: true
 labels:
+  - TypeScript
   - Design Patterns
-  - Software Engineering
 ---
 
-## So apparently I’ve been using design patterns this whole time?
+## Learning TypeScript for the first time
 
-When I first heard “design patterns,” I thought it was some complicated thing that senior devs or architecture nerds talk about. Turns out I’ve actually been using a bunch of them in my own code without realizing it. This whole module basically made me go, “Ohhh, *that’s* what that’s called.”
+Before this class, I’d never touched TypeScript. I had some experience with Java and a bit of C, so I figured it wouldn’t be *too* bad. Turns out, TypeScript is kind of a mix of both—it gives you the freedom of JavaScript, but with the structure and type safety that Java has. That structure definitely helped me avoid bugs and catch mistakes way earlier than I’m used to.
 
-Here’s what I learned from the videos, *patterns.dev*, and looking at the BowFolios code, and how it all connects to the Da Grindz app we’ve been building.
+In C, stuff just crashes. In JavaScript, errors sneak around until runtime. But TypeScript? It tells you right away when something’s wrong, and that honestly saved me so much time.
 
-## When things update on their own — that’s Observer
+## What I liked (and didn’t)
 
-In Da Grindz, when I add a meal to the planner, the macro tracker and other parts update automatically. I just thought “yay React state,” but that’s actually the **Observer Pattern**. Same thing in Meteor with publish/subscribe — data changes on the backend, and the frontend updates. Basically, stuff reacts to changes without you having to manually tell every part of the app.
+One thing I really liked was how TypeScript works with newer JavaScript features. Things like arrow functions and destructuring felt super clean, and once I got the hang of typing everything, my code started to make a lot more sense.
 
-## Making things with helper functions — Factory
+Setting it up, though? That was annoying. `tsconfig.json`, dealing with type definitions, and making sure everything plays nice with libraries—it was kind of a pain at first. But once I got past that, it was smooth sailing.
 
-I have some functions that create meals or macro data. They do all the setup, formatting, and return everything clean. That’s the **Factory Pattern**. I didn’t call it that, I just wanted to make my code less annoying to manage. In BowFolios, they use `define()` methods for collections and it’s basically the same idea.
+## WODs: stressful but actually helpful?
 
-## One shared thing for the whole app — Singleton
+The Workouts of the Day (WODs) were a whole different thing. At first, they were stressful. Being timed while still learning the material felt like getting thrown into the deep end. I messed up. A lot.
 
-The meal bank, the macros state, the user info — they all live in one place and get imported wherever I need them. That’s a **Singleton**, I guess. I just thought of it as “don’t duplicate this everywhere.” But yeah, that’s a design pattern too.
+But repeating the WODs helped me get faster and more confident. I started to understand where I was getting stuck and how to think through problems quicker. It was still pressure, but it became a good kind—the kind that pushes you. Every time I finished one on time, it felt like a win.
 
-## Turns out I’ve been using MVC
+## What I’m taking with me
 
-I didn’t sit down and plan out Model-View-Controller or anything, but it kind of just happened. In Da Grindz:
-- The **model** is the planner state
-- The **view** is all the React components
-- The **controller** is the event handlers and custom hooks
-
-BowFolios does the same thing, but with MongoDB, Blaze, and FlowRouter. It’s more obvious there, but React apps do it too — just not in your face about it.
-
-## Reactive data and prototypes
-
-Meteor’s whole thing is reactive — when you update the database, the UI updates. That’s built-in Observer stuff. Also, using `useState` and `useEffect` in React is kind of like using reactivity too. We’ve been using that since week one.
-
-Also, JavaScript is built on the **Prototype Pattern**. Even when you write `class`, under the hood it’s all prototype stuff. Didn’t really care before, but now I kinda get why people talk about it.
-
-## Bad patterns: Lava Flow is real
-
-The Lava Flow anti-pattern made me laugh a little because I’ve seen this happen before. Old code that no one touches because everyone’s afraid of breaking something. It just sits there — no one knows why it’s still in the project. I’ve probably written some of that too, honestly. Trying not to do that now.
+Learning TypeScript taught me how helpful it is to have structure in your code. It doesn’t take away creativity—it actually makes things easier to manage. And even though I didn’t love WODs at first, they made me better at solving problems under pressure, which is a skill I know I’ll use outside of just coding.
 
 ## Final thoughts
 
-Anyway, I didn’t expect this design pattern stuff to be interesting, but it was. Mostly because it made me realize I’m already using a bunch of them. Observer, Factory, Singleton, MVC, Prototype — I’ve used them all this semester, just didn’t know that’s what they were called. Now that I do, I’m going to be more intentional about it. Also, might help me not sound lost in interviews, which is a plus.
+Trying something new like TypeScript (and doing it under time pressure) pushed me way outside my comfort zone. But it also showed me that’s where real growth happens. I’m glad I stuck with it, and I’m looking forward to building more stuff with these tools and skills.
 
 ---
 
-*This essay was written with help from ChatGPT to organize my thoughts based on the ICS 314 design pattern lectures and my own work. The examples and voice are all mine.*
+*AI was used to assist with grammar and tone refinement to enhance the professionalism of this essay while maintaining my original thoughts and perspective*
