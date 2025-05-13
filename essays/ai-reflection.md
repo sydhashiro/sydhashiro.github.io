@@ -64,7 +64,7 @@ I used AI a lot when it came to fixing ESLint errors or bugs, especially near th
 <h3 style="color:pink;">14. Other uses in ICS 314 not listed</h3>  
 Outside of writing and debugging code, I also used AI to help me organize my planner page and figure out the most efficient way to work through the project. Sometimes I’d ask it for layout suggestions or ways to make the UI cleaner. On top of that, I’d use ChatGPT to help manage my time. I’d list out all my assignments, my work schedule, and school stuff, and have it help me plan out when to work on what. It helped me stay on track or at least feel a little less overwhelmed.
 
-<h2 style="color:pink;">## III. Impact on Learning and Understanding
+<h2 style="color:pink;">## III. Impact on Learning and Understanding</h2>
 
 Using AI in ICS 314 definitely affected the way I learned, both in helpful and challenging ways. On the helpful side, it made it easier to understand concepts more quickly, especially when I didn’t want to rewatch lecture videos or was trying to figure out why something worked. Asking AI to simplify a concept or explain a chunk of code saved me time and made it easier to move forward. It also helped me compare different solutions and see why one might be better than another.
 
@@ -72,11 +72,11 @@ At the same time, I had to be careful not to rely on it too much. Sometimes Chat
 
 Overall, AI made me more confident when it came to solving problems. It gave me support when I was stuck, but it didn’t do the work for me. I still had to understand what I was doing, make choices, and make sure everything fit together. It made learning less stressful and more manageable, but I still had to put in the effort to actually learn it.
 
-<h2 style="color:pink;">## IV. Practical Applications
+<h2 style="color:pink;">## IV. Practical Applications</h2>
 
 Outside of ICS 314, I’ve used AI in a bunch of other classes too. Most of the time, I use it to summarize material or help create study guides. If I’m short on time or just don’t feel like digging through pages of notes, I’ll throw some of the content into ChatGPT and ask it to help me organize or simplify it. It helps me focus on what’s actually important and makes studying feel way less overwhelming. I haven’t really used it much for coding outside of this class yet, but for school in general, it’s definitely become part of how I study and manage everything.
 
-<h2 style="color:pink;">## V. Challenges and Opportunities
+<h2 style="color:pink;">## V. Challenges and Opportunities</h2>
 
 One of the biggest challenges with using AI is that you have to be really specific when you ask a question. If your prompt is even a little unclear, it might give you an answer that is completely wrong but still sounds confident. That makes it easy to fall into the trap of trusting something that does not actually help. You still have to understand what you are doing and be able to catch when AI gets it wrong.
 
@@ -84,7 +84,7 @@ Another issue is that AI is not great at handling anything too complex or specif
 
 Even with the flaws, there is a lot of potential. If AI tools continue to improve, especially in understanding the context of what you are working on, they could be a great resource for explaining code or helping debug smarter. Right now it is helpful, but only if you already know enough to spot when it messes up.
 
-<h2 style="color:pink;">## VI. Comparative Analysis
+<h2 style="color:pink;">## VI. Comparative Analysis</h2>
 
 For me, a combination of traditional learning and AI assisted learning worked best. Lectures, videos, and readings gave me the foundation I needed to understand the core concepts. That part was important because AI is not going to magically teach you something if you do not already have some idea of what is going on.
 
@@ -92,13 +92,13 @@ At the same time, AI was super helpful when I needed things explained differentl
 
 The traditional resources helped me learn things the right way, and AI helped me move faster and feel more confident. Neither one worked perfectly on its own, but together they made things a lot more manageable.
 
-<h2 style="color:pink;">## VII. Future Considerations
+<h2 style="color:pink;">## VII. Future Considerations</h2>
 
 I think AI is an amazing tool when it is used the right way, but we should not rely on it too much. It can make things easier, faster, and less frustrating, but it should not replace learning or problem solving. If students start using it as a shortcut instead of a support tool, they are going to miss out on actually understanding how things work.
 
 In the future, I think AI could be even more helpful if it gets better at understanding course content and assignments more specifically. Right now, it is helpful, but it still needs you to guide it and double check everything. If it could give more accurate and personalized help based on what you are learning, it would be a huge benefit. But even then, we still need to make sure students are learning how to think through problems on their own.
 
-<h2 style="color:pink;">## VIII. Conclusion
+<h2 style="color:pink;">## VIII. Conclusion</h2>
 
 Looking back at this semester, AI definitely played a big role in how I got through ICS 314. Whether it was breaking down concepts, fixing annoying errors, or just helping me stay organized, it made a lot of things easier to manage. That said, it was never a replacement for actually learning the material. I still had to understand what I was doing, test my code, and figure out how to solve problems myself.
 
