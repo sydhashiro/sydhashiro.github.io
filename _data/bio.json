@@ -10,7 +10,7 @@
     "location": { "address": "", "postalCode": "", "city": "", "countryCode": "", "region": "" },
     "profiles": [
       { "network": "github", "username": "sydhashiro", "url": "http://github.com/sydhashiro" },
-      { "network": "linkedin", "username": "sydneyhashiro", "url": "https://www.linkedin.com/in/sydney-hashiro-23baa7348/" },
+      { "network": "linkedin", "username": "sydneyhashiro", "url": "https://www.linkedin.com/in/sydney-hashiro-23baa7348/" }
     ]
   },
   "interests": [
@@ -33,7 +33,7 @@
       "name": "Professional Skills",
       "keywords": [ "Customer Service", "Time Management", "Team Collaboration", "Problem Solving", "Adaptability", "Attention to Detail"]
     }
-  ],
+  ]
   "education": [
     {
       "institution": "University of Hawaii, Honolulu, HI",
