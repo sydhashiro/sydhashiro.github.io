@@ -23,19 +23,23 @@
   "skills": [
     {
       "name": "Languages and Frameworks",
-      "keywords": [ "C", "C++", "Java", "Javascript"]
+      "keywords": [ "C", "Java", "HTML"]
     },
     {
       "name": "Toolsets/OS",
-      "keywords": [ "MacOS", "Ubuntu", "Git/GitHub", "g++", "TI LaunchPad" ]
+      "keywords": [ "MacOS", "Microsoft Office", "Git/GitHub"]
+    }
+    {
+      "name": "Professional Skills",
+      "keywords": [ "Customer Service", "Time Management", "Team Collaboration", "Problem Solving", "Adaptability", "Attention to Detail"]
     }
   ],
   "education": [
     {
       "institution": "University of Hawaii, Honolulu, HI",
-      "area": "Computer Science (expected Spring, 2018)",
+      "area": "Compueter Science (expected Spring, 2026)",
       "studyType": "B.S.",
-      "startDate": "2013-09-01",
+      "startDate": "2021",
       "endDate": "Present",
       "courses": [
       ]
@@ -43,69 +47,52 @@
   ],
   "work": [
     {
-      "company": "UH Manoa Board of Publications",
-      "position": "Web Developer",
+      "company": "Target",
+      "position": "Presentation Expert",
       "website": "",
-      "startDate": "2015-08-01",
+      "startDate": "2021-10-06",
       "endDate": "Present",
-      "summary": "Head of online presence for Ka Leo",
+      "summary": "Drive and maintain on-brand visual displays, planogram compliance, and timely resets to maximize guest experience and sales. Partner with cross-functional teams to adapt priorities and ensure a safe, organized sales floor",
       "highlights": [
-        "Maintain, update, and oversee official college newspaper website",
-        "Drive, design and build student-community projects for UH Manoa"
+        "Collaborated with leaders and peers to prioritize sets and adjust workload based on trailer reports and store needs",
+        "Maintained brand standards by flexing product, updating signing, and ensuring clean, shoppable presentations",
+        "Supported transitions by prepping areas in advance, coordinating product pulls, and completing sets ahead of deadline",
+        "Mentored new team members on safety, equipment use, and interpreting workload documents",
+        "Used Zebra devices to track progress, locate fixtures, and communicate set completions"
       ]
     },
     {
-      "company": "UH Information Technology Services",
-      "position": "Help Desk Consultant",
-      "website": "http://www.hawaii.edu/its/",
-      "startDate": "2015-01-01",
-      "endDate": "2016-03-15",
-      "summary": "",
+      "company": "University of Hawaii at Hilo and Manoa",
+      "position": "Head Lifeguard/Instructor",
+      "website": "",
+      "startDate": "2018",
+      "endDate": "2022",
+      "summary": "Monitored aquatic facilities to ensure guest safety, enforced rules, and responded to emergencies with CPR and first aid. Instructed swim lessons for individuals and groups of all ages while maintaining a clean and hazard-free pool environment",
       "highlights": [
-        "Troubleshoot software, hardware and networking issues over the phone",
-        "Answer phone and email responses to the ITS Help Desk"
+        "Supervised swimmers and enforced safety protocols to prevent accidents and injuries",
+        "Led swim instruction and lifeguard/CPR certification classes for students of all ages",
+        "Maintained pool cleanliness and logged chemical readings to meet health standards",
+        "Advised new swimmers on proper techniques and confidence-building strategies",
+        "Collaborated with peers to identify and address safety concerns proactively"
       ]
     }
   ],
   "volunteer": [
     {
-      "organization": "Center for Renewable Energy and Island Sustainability",
-      "website": "http://manoa.hawaii.edu/reis",
-      "position": "Software Developer",
-      "startDate": "2016-01-01",
-      "endDate": "Present",
-      "summary": "Lead developer for weather sensing project",
-      "highlights": [
-        "Design firmware for distributed weather sensor network",
-        "Maintain custom data collection and storage infrastructure"
-      ]
-    },
-    {
-      "organization": "",
+      "organization": "University of Hawaii at Hilo",
       "website": "",
-      "position": "Professional organization involvement",
-      "startDate": "",
-      "endDate": "",
-      "summary": "",
-      "highlights": [
-        "Chair, ACM Manoa, 2016-Present",
-        "Member, IEEE Student Branch, 2014-Present",
-        "Webmaster/IT Officer, IEEE Student Branch, UH Manoa, 2012-2013"
-      ]
-    }
-  ],
-  "awards": [
-    {
-      "title": "B+ Scholarship",
-      "date": "2013-Present",
-      "awarder": "State of Hawaii",
-      "summary": "Scholarships awarded to incoming freshmen and continuing students who complete a rigorous high school curriculum with a minimum overall GPA of 3.0 at a Hawai'i public school."
+      "position": "Swim Instructor",
+      "startDate": "2014",
+      "endDate": "2018",
+      "summary": "Instructed swim lessons for individuals and groups of all ages while maintaining a clean and hazard-free pool environment.",
     },
     {
-      "title": "First place",
-      "date": "2015",
-      "awarder": "University of Hawaii Micromouse Competition",
-      "summary": "My team won first place in 2015.  See my portfolio site for more details."
+      "organization": "Altres",
+      "website": "",
+      "position": "COVID Vaccination Clinic",
+      "startDate": "2020",
+      "endDate": "2021",
+      "summary": "Helped guide patients through check-in and post-vaccine observation, ensured proper safety protocols, and provided a calm and welcoming environment for all attendees",
     }
   ],
   "references": [
