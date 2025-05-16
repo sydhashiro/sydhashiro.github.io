@@ -7,42 +7,53 @@
     "phone": "",
     "website": "https://sydhashiro.github.io",
     "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2026.",
-    "location": { "address": "", "postalCode": "", "city": "", "countryCode": "", "region": "" },
+    "location": {
+      "address": "",
+      "postalCode": "",
+      "city": "",
+      "countryCode": "",
+      "region": ""
+    },
     "profiles": [
-      { "network": "github", "username": "sydhashiro", "url": "http://github.com/sydhashiro" },
-      { "network": "linkedin", "username": "sydneyhashiro", "url": "https://www.linkedin.com/in/sydney-hashiro-23baa7348/" }
+      {
+        "network": "github",
+        "username": "sydhashiro",
+        "url": "http://github.com/sydhashiro"
+      },
+      {
+        "network": "linkedin",
+        "username": "sydneyhashiro",
+        "url": "https://www.linkedin.com/in/sydney-hashiro-23baa7348/"
+      }
     ]
   },
   "interests": [
     { "name": "Cybersecurity" },
     { "name": "Game Development" },
-    { "name": "Software Engineering" },
-    
-    
+    { "name": "Software Engineering" }
   ],
   "skills": [
     {
       "name": "Languages and Frameworks",
-      "keywords": [ "C", "Java", "HTML"]
+      "keywords": ["C", "Java", "HTML"]
     },
     {
       "name": "Toolsets/OS",
-      "keywords": [ "MacOS", "Microsoft Office", "Git/GitHub"]
-    }
+      "keywords": ["MacOS", "Microsoft Office", "Git/GitHub"]
+    },
     {
       "name": "Professional Skills",
-      "keywords": [ "Customer Service", "Time Management", "Team Collaboration", "Problem Solving", "Adaptability", "Attention to Detail"]
+      "keywords": ["Customer Service", "Time Management", "Team Collaboration", "Problem Solving", "Adaptability", "Attention to Detail"]
     }
-  ]
+  ],
   "education": [
     {
       "institution": "University of Hawaii, Honolulu, HI",
-      "area": "Compueter Science (expected Spring, 2026)",
+      "area": "Computer Science (expected Spring, 2026)",
       "studyType": "B.S.",
       "startDate": "2021",
       "endDate": "Present",
-      "courses": [
-      ]
+      "courses": []
     }
   ],
   "work": [
@@ -52,7 +63,7 @@
       "website": "",
       "startDate": "2021-10-06",
       "endDate": "Present",
-      "summary": "Drive and maintain on-brand visual displays, planogram compliance, and timely resets to maximize guest experience and sales. Partner with cross-functional teams to adapt priorities and ensure a safe, organized sales floor",
+      "summary": "Drive and maintain on-brand visual displays, planogram compliance, and timely resets to maximize guest experience and sales. Partner with cross-functional teams to adapt priorities and ensure a safe, organized sales floor.",
       "highlights": [
         "Collaborated with leaders and peers to prioritize sets and adjust workload based on trailer reports and store needs",
         "Maintained brand standards by flexing product, updating signing, and ensuring clean, shoppable presentations",
@@ -67,7 +78,7 @@
       "website": "",
       "startDate": "2018",
       "endDate": "2022",
-      "summary": "Monitored aquatic facilities to ensure guest safety, enforced rules, and responded to emergencies with CPR and first aid. Instructed swim lessons for individuals and groups of all ages while maintaining a clean and hazard-free pool environment",
+      "summary": "Monitored aquatic facilities to ensure guest safety, enforced rules, and responded to emergencies with CPR and first aid. Instructed swim lessons for individuals and groups of all ages while maintaining a clean and hazard-free pool environment.",
       "highlights": [
         "Supervised swimmers and enforced safety protocols to prevent accidents and injuries",
         "Led swim instruction and lifeguard/CPR certification classes for students of all ages",
@@ -84,7 +95,7 @@
       "position": "Swim Instructor",
       "startDate": "2014",
       "endDate": "2018",
-      "summary": "Instructed swim lessons for individuals and groups of all ages while maintaining a clean and hazard-free pool environment.",
+      "summary": "Instructed swim lessons for individuals and groups of all ages while maintaining a clean and hazard-free pool environment."
     },
     {
       "organization": "Altres",
@@ -92,7 +103,7 @@
       "position": "COVID Vaccination Clinic",
       "startDate": "2020",
       "endDate": "2021",
-      "summary": "Helped guide patients through check-in and post-vaccine observation, ensured proper safety protocols, and provided a calm and welcoming environment for all attendees",
+      "summary": "Helped guide patients through check-in and post-vaccine observation, ensured proper safety protocols, and provided a calm and welcoming environment for all attendees."
     }
   ],
   "references": [
