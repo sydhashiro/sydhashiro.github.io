@@ -1,8 +1,8 @@
 ---
 layout: project
 type: project
-image: img/da-grindz/bone-apple-teeth.png
-title: "Micromouse"
+image: img/da-grindz/bone-apple-teeth1.png
+title: "da grindz"
 date: 2025
 published: true
 labels:
