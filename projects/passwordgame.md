@@ -13,7 +13,6 @@ labels:
   - HTML
 summary: "The Password Game is a playful web app built with Next.js and TypeScript that challenges users to create a password while obeying 20 rules."
 ---
-<h1 className="text-pink">The Password Game</h1>
 
 The Password Game is a web-based parody inspired by Neal Agarwal’s viral game, reimagined with a unique kawaii aesthetic, interactive rule system, and a penguin named Paul who adds an unexpected twist. The game challenges users to build a password that satisfies 20 increasingly challenging rules; from basic requirements like including a number or uppercase letter, to more constraints like feeding Paul 🐧 every 25 seconds, using a moon phase emoji, and including trivia answers. As each rule is satisfied, a new one appears, and the player must adapt their password in real-time to survive.
 
