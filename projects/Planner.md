@@ -4,7 +4,7 @@ type: project
 image: img/Planner.png
 title: "Assignment Tracker"
 date: 2023
-published: true
+published: false
 labels:
   - Java
 summary: "An assignment tracker that lets you add, complete, and delete tasks with due dates"
