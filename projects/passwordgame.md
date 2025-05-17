@@ -30,17 +30,21 @@ This project taught me how to organize complex conditional logic in a maintainab
 Here are some screenshots from The Password Game 
 
 <h3 className="text-pink">Paul the Penguin</h3>
-<img width="400px" class="rounded p-4" src="../img/passwordgame/paul.png">
+<img width="600px" class="rounded p-4" src="../img/passwordgame/paul.png">
 
 <h3 className="text-pink">How to Play</h3>
 
-<img width="400px" class="rounded p-4" src="../img/passwordgame/howtoplay.png">
+<img width="600px" class="rounded p-4" src="../img/passwordgame/howtoplay.png">
 
 <h3 className="text-pink">Rules</h3>
-<img width="400px" class="rounded p-4" src="../img/passwordgame/rules.png">
-<img width="400px" class="rounded p-4" src="../img/passwordgame/rules2.png">
+<img width="600px" class="rounded p-4" src="../img/passwordgame/rules.png">
+<img width="600px" class="rounded p-4" src="../img/passwordgame/rules2.png">
 
 <h3 className="text-pink">The Game</h3>
-<img width="400px" class="rounded p-4" src="../img/passwordgame/play.png">
+<img width="600px" class="rounded p-4" src="../img/passwordgame/play.png">
+
+<h3 className="text-pink">You Win!</h3>
+
+<img width="600px" class="rounded p-4" src="../img/passwordgame/win.png">
 
 
