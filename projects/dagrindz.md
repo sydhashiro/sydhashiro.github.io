@@ -1,3 +1,18 @@
+---
+layout: project
+type: project
+image: img/da-grindz/bone-apple-teeth.png
+title: "Micromouse"
+date: 2025
+published: true
+labels:
+  - Next.js
+  - TypeScript
+  - React
+  - PostgreSQL
+  - Vercel
+summary: "Da Grindz is a web app that helps UH Mānoa students plan their meals, track nutrition, and get personalized food recommendations based on their mood."
+---
 # da grindz
 
 <img width="400px" class="rounded p-4" src="../img/da-grindz/bone-apple-teeth.png">
