@@ -1,5 +1,6 @@
 ---
 layout: essay
+type: essay
 title: "ICS 314 Reflection: What I Learned"
 date: 2025-05-16
 published: true
