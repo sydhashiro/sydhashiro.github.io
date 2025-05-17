@@ -4,7 +4,7 @@ type: project
 image: img/rock-paper-scissors-seamless-pattern-vector.png
 title: "Rock, Paper, Scissors"
 date: 2022
-published: true
+published: false
 labels:
   - Java
 summary: "Rock-Paper-Scissors is a simple and interactive two-player game where one player competes against the computer. Each player selects one of three choices: Rock, Paper, or Scissors."
