@@ -37,8 +37,8 @@ Here are some screenshots from The Password Game
 <img width="600px" class="rounded p-4" src="../img/passwordgame/howtoplay.png">
 
 <h3 className="text-pink">Rules</h3>
-<img width="600px" class="rounded p-4" src="../img/passwordgame/rules.png">
-<img width="600px" class="rounded p-4" src="../img/passwordgame/rules2.png">
+<img width="600px" class="rounded p-4" src="../img/passwordgame/Rules.png">
+<img width="600px" class="rounded p-4" src="../img/passwordgame/Rules2.png">
 
 <h3 className="text-pink">The Game</h3>
 <img width="600px" class="rounded p-4" src="../img/passwordgame/play.png">
