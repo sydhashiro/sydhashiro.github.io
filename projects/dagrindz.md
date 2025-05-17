@@ -38,7 +38,7 @@ What I Learned:
 ## Screenshots
 Here are some screenshots from the da grindz website that I was responsible for
 <img width="400px" class="rounded p-4" src="../img/da-grindz/planner-m3.png">
-<img width="400px" class="rounded p-4" src="../images/da-grindz/planner-m3.2.png">
+<img width="400px" class="rounded p-4" src="../img/da-grindz/planner-m3.2.png">
 
 ## Project Links
 - [Live Site](https://da-grindz.vercel.app/)
