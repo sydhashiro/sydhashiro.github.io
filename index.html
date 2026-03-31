@@ -1,38 +1,6 @@
----
-title: Home
-layout: home
----
-
-<!-- HEADER (Name + Picture + Summary) -->
-<div class="container py-5 text-center">
-
-  <!-- Profile Picture -->
-  <img src="{{ site.data.bio.basics.picture }}" 
-       class="rounded-circle mb-3" 
-       style="width: 150px; height: 150px; object-fit: cover;">
-
-  <!-- Name -->
-  <h1 class="fw-bold">{{ site.data.bio.basics.name }}</h1>
-
-  <!-- Label -->
-  <p class="text-muted mb-2">{{ site.data.bio.basics.label }}</p>
-
-  <!-- Summary -->
-  <p class="lead mt-3">
-    {{ site.data.bio.basics.summary }}
-  </p>
-
-  <!-- Links -->
-  <p class="mt-3">
-    {% for profile in site.data.bio.basics.profiles %}
-      <a href="{{ profile.url }}" class="me-2">{{ profile.network }}</a>
-    {% endfor %}
-  </p>
-
-</div>
-
-<!-- PROJECTS -->
-<div class="container mb-5">
-  <h2 class="mb-3">Projects</h2>
-  {% include projects/projects.html limit=4 %}
-</div>
+--- 
+title: Home 
+layout: home 
+--- 
+{% include about/about.html %} 
+{% include projects/projects.html limit=4 %}
