@@ -3,6 +3,32 @@ title: Home
 layout: home
 ---
 
-{% include about/about.html %}
-{% include projects/projects.html limit=4 %}
-{% include essays/essays.html limit=6 %}
+<!-- HERO SECTION -->
+<div class="container py-5 text-center">
+  <h1 class="fw-bold">Hi, I’m Sydney 👋</h1>
+
+  <p class="lead mt-3">
+    I build full-stack web applications and enjoy solving real-world problems through technology.
+  </p>
+
+  <p class="text-muted">
+    Aspiring IT Support & Analyst • React • Next.js • SQL
+  </p>
+
+  <div class="mt-4">
+    <a href="/resume.html" class="btn btn-dark me-2">View Resume</a>
+    <a href="https://github.com/sydhashiro" class="btn btn-outline-dark">GitHub</a>
+  </div>
+</div>
+
+<!-- PROJECTS -->
+<div class="container mb-5">
+  <h2 class="mb-3">Projects</h2>
+  {% include projects/projects.html limit=4 %}
+</div>
+
+<!-- ABOUT (optional but good lower on page) -->
+<div class="container mb-5">
+  <h2 class="mb-3">About</h2>
+  {% include about/about.html %}
+</div>
