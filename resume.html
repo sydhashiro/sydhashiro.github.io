@@ -5,25 +5,32 @@ layout: home
 
 <div class="container py-5">
 
-  <!-- HEADER -->
-  <div class="text-center mb-4">
+  <!-- HERO / HEADER -->
+  <div class="text-center mb-5">
     <h1 class="fw-bold">{{ site.data.bio.basics.name }}</h1>
-    <p class="text-muted mb-1">{{ site.data.bio.basics.label }}</p>
-    <p class="mb-0">
+    <p class="text-muted mb-2">{{ site.data.bio.basics.label }}</p>
+
+    <p class="mb-1">
       {{ site.data.bio.basics.email }} |
       {% for profile in site.data.bio.basics.profiles %}
         <a href="{{ profile.url }}">{{ profile.network }}</a>{% if forloop.last != true %} | {% endif %}
       {% endfor %}
     </p>
+
     <p class="text-muted">
       {{ site.data.bio.basics.location.city }}, {{ site.data.bio.basics.location.region }}
+    </p>
+
+    <!-- 🔥 NEW INTRO LINE -->
+    <p class="lead mt-3">
+      I build full-stack web applications and enjoy solving real-world problems through technology.
     </p>
   </div>
 
   <!-- SUMMARY -->
   <div class="mb-5">
     <h4 class="border-bottom pb-2">Summary</h4>
-    <p>{{ site.data.bio.basics.summary }}</p>
+    <p class="text-muted">{{ site.data.bio.basics.summary }}</p>
   </div>
 
   <!-- SKILLS -->
@@ -39,9 +46,60 @@ layout: home
     {% endfor %}
   </div>
 
+  <!-- 🔥 FEATURED PROJECT -->
+  <div class="mb-5">
+    <h4 class="border-bottom pb-2">Featured Project</h4>
+    <div class="p-4 border rounded shadow-sm">
+      <h5 class="fw-bold">Da Grindz</h5>
+      <p class="text-muted mb-2">
+        A full-stack meal planning application with drag-and-drop functionality, macro tracking,
+        and database integration.
+      </p>
+      <p class="mb-0">
+        Built with React, Next.js, TypeScript, Prisma, and PostgreSQL.
+      </p>
+    </div>
+  </div>
+
+  <!-- PROJECTS (CARD STYLE) -->
+  <div class="mb-5">
+    <h4 class="border-bottom pb-2">Projects</h4>
+
+    <div class="row">
+      {% for project in site.data.bio.projects %}
+      <div class="col-md-6 mb-4">
+        <div class="card shadow-sm h-100">
+          <div class="card-body">
+
+            <h5 class="card-title">{{ project.name }}</h5>
+            <p class="card-text text-muted">{{ project.summary }}</p>
+
+            <ul>
+              {% for highlight in project.highlights %}
+                <li>{{ highlight }}</li>
+              {% endfor %}
+            </ul>
+
+            <!-- Optional buttons -->
+            {% if project.github %}
+            <a href="{{ project.github }}" class="btn btn-dark btn-sm">GitHub</a>
+            {% endif %}
+
+            {% if project.url %}
+            <a href="{{ project.url }}" class="btn btn-outline-dark btn-sm">Live Demo</a>
+            {% endif %}
+
+          </div>
+        </div>
+      </div>
+      {% endfor %}
+    </div>
+  </div>
+
   <!-- EXPERIENCE -->
   <div class="mb-5">
     <h4 class="border-bottom pb-2">Professional Experience</h4>
+
     {% for entry in site.data.bio.work %}
       <div class="mb-4">
         <div class="d-flex justify-content-between">
@@ -50,25 +108,11 @@ layout: home
             {{ entry.startDate }} - {{ entry.endDate }}
           </span>
         </div>
+
         <p class="mb-1 text-muted">{{ entry.summary }}</p>
+
         <ul class="mb-0">
           {% for highlight in entry.highlights %}
-            <li>{{ highlight }}</li>
-          {% endfor %}
-        </ul>
-      </div>
-    {% endfor %}
-  </div>
-
-  <!-- PROJECTS -->
-  <div class="mb-5">
-    <h4 class="border-bottom pb-2">Projects</h4>
-    {% for project in site.data.bio.projects %}
-      <div class="mb-4">
-        <strong>{{ project.name }}</strong>
-        <p class="text-muted mb-1">{{ project.summary }}</p>
-        <ul class="mb-0">
-          {% for highlight in project.highlights %}
             <li>{{ highlight }}</li>
           {% endfor %}
         </ul>
