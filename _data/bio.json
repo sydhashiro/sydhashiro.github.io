@@ -1,18 +1,18 @@
 {
   "basics": {
     "name": "Sydney Hashiro",
-    "label": "Student",
+    "label": "Computer Science Student | IT Support & Analyst",
     "picture": "https://github.com/sydhashiro.png",
-    "email": "sydneych@hawaii.edu",
+    "email": "sydhashiro@gmail.com",
     "phone": "",
     "website": "https://sydhashiro.github.io",
-    "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2026.",
+    "summary": "Computer Science student specializing in cybersecurity and full-stack development, with hands-on experience troubleshooting technology and building web applications using React, Next.js, and SQL-based databases. Experienced in customer-facing technical support and problem-solving in fast-paced environments. Seeking an entry-level IT support or analyst role starting Summer 2026.",
     "location": {
       "address": "",
       "postalCode": "",
-      "city": "",
-      "countryCode": "",
-      "region": ""
+      "city": "Honolulu",
+      "countryCode": "US",
+      "region": "HI"
     },
     "profiles": [
       {
@@ -23,92 +23,120 @@
       {
         "network": "linkedin",
         "username": "sydneyhashiro",
-        "url": "https://www.linkedin.com/in/sydney-hashiro-23baa7348/"
+        "url": "https://www.linkedin.com/in/sydneyhashiro"
       }
     ]
   },
+
   "interests": [
-    { "name": "Cybersecurity" },
-    { "name": "Game Development" },
-    { "name": "Software Engineering" }
+    { "name": "IT Support & Troubleshooting" },
+    { "name": "Cybersecurity & System Security" },
+    { "name": "Data Analysis & Problem Solving" },
+    { "name": "Workflow Optimization" }
   ],
+
   "skills": [
     {
-      "name": "Languages and Frameworks",
-      "keywords": ["C", "Java", "HTML"]
+      "name": "Languages & Frameworks",
+      "keywords": ["Java", "C", "JavaScript", "TypeScript", "React", "Next.js", "HTML", "CSS", "Bootstrap"]
     },
     {
-      "name": "Toolsets/OS",
-      "keywords": ["MacOS", "Microsoft Office", "Git/GitHub"]
+      "name": "Databases",
+      "keywords": ["SQL", "Prisma", "PostgreSQL"]
+    },
+    {
+      "name": "Tools & Technologies",
+      "keywords": ["Git", "GitHub", "VS Code", "Linux/Unix Terminal", "GCC", "Makefiles"]
     },
     {
       "name": "Professional Skills",
-      "keywords": ["Customer Service", "Time Management", "Team Collaboration", "Problem Solving", "Adaptability", "Attention to Detail"]
+      "keywords": ["Customer Support", "Troubleshooting", "Communication", "Team Collaboration", "Problem Solving", "Adaptability"]
     }
   ],
+
   "education": [
     {
-      "institution": "University of Hawaii, Honolulu, HI",
-      "area": "Computer Science (expected Spring, 2026)",
+      "institution": "University of Hawaii at Manoa",
+      "area": "Computer Science (Security Science)",
       "studyType": "B.S.",
       "startDate": "2021",
-      "endDate": "Present",
-      "courses": []
+      "endDate": "2026"
     }
   ],
+
   "work": [
     {
       "company": "Target",
       "position": "Presentation Expert",
       "website": "",
-      "startDate": "2021-10-06",
+      "startDate": "2024-06",
       "endDate": "Present",
-      "summary": "Drive and maintain on-brand visual displays, planogram compliance, and timely resets to maximize guest experience and sales. Partner with cross-functional teams to adapt priorities and ensure a safe, organized sales floor.",
+      "summary": "Execute merchandising strategies and maintain operational efficiency across departments while collaborating with leadership to improve workflow execution.",
       "highlights": [
-        "Collaborated with leaders and peers to prioritize sets and adjust workload based on trailer reports and store needs",
-        "Maintained brand standards by flexing product, updating signing, and ensuring clean, shoppable presentations",
-        "Supported transitions by prepping areas in advance, coordinating product pulls, and completing sets ahead of deadline",
-        "Mentored new team members on safety, equipment use, and interpreting workload documents",
-        "Used Zebra devices to track progress, locate fixtures, and communicate set completions"
+        "Executed planograms and merchandising strategies to support operational efficiency",
+        "Collaborated with leadership to prioritize workload and improve workflow execution",
+        "Identified inefficiencies and improved organization across departments",
+        "Trained and supported team members to improve performance and adaptability",
+        "Maintained inventory accuracy and ensured product availability"
       ]
     },
     {
-      "company": "University of Hawaii at Hilo and Manoa",
-      "position": "Head Lifeguard/Instructor",
+      "company": "Target",
+      "position": "Tech Consultant",
       "website": "",
-      "startDate": "2018",
-      "endDate": "2022",
-      "summary": "Monitored aquatic facilities to ensure guest safety, enforced rules, and responded to emergencies with CPR and first aid. Instructed swim lessons for individuals and groups of all ages while maintaining a clean and hazard-free pool environment.",
+      "startDate": "2021-10",
+      "endDate": "2024-06",
+      "summary": "Provided customer-facing technical support for electronics, mobile devices, and consumer technology products.",
       "highlights": [
-        "Supervised swimmers and enforced safety protocols to prevent accidents and injuries",
-        "Led swim instruction and lifeguard/CPR certification classes for students of all ages",
-        "Maintained pool cleanliness and logged chemical readings to meet health standards",
-        "Advised new swimmers on proper techniques and confidence-building strategies",
-        "Collaborated with peers to identify and address safety concerns proactively"
+        "Assisted customers in troubleshooting device issues and understanding product functionality",
+        "Provided technical support for electronics, mobile devices, and consumer technology",
+        "Communicated technical concepts clearly to non-technical users",
+        "Recommended technology solutions based on customer needs",
+        "Supported operations including POS systems and inventory management"
       ]
-    }
-  ],
-  "volunteer": [
-    {
-      "organization": "University of Hawaii at Hilo",
-      "website": "",
-      "position": "Swim Instructor",
-      "startDate": "2014",
-      "endDate": "2018",
-      "summary": "Instructed swim lessons for individuals and groups of all ages while maintaining a clean and hazard-free pool environment."
     },
     {
-      "organization": "Altres",
+      "company": "University of Hawaii",
+      "position": "Head Lifeguard & Instructor",
       "website": "",
-      "position": "COVID Vaccination Clinic",
-      "startDate": "2020",
+      "startDate": "2019",
       "endDate": "2021",
-      "summary": "Helped guide patients through check-in and post-vaccine observation, ensured proper safety protocols, and provided a calm and welcoming environment for all attendees."
+      "summary": "Supervised swimmers, enforced safety protocols, and responded to emergencies while teaching swim lessons and CPR courses.",
+      "highlights": [
+        "Supervised swimmers and enforced safety protocols",
+        "Responded to emergencies using CPR and lifesaving techniques",
+        "Taught swim lessons and CPR certification courses"
+      ]
     }
   ],
-  "references": [
+
+  "projects": [
     {
-      "name": "Available upon request"
+      "name": "Da Grindz — Full-Stack Web App",
+      "summary": "Developed a full-stack meal planning application using React, Next.js, TypeScript, Prisma, and PostgreSQL.",
+      "highlights": [
+        "Implemented drag-and-drop functionality, macro tracking, and database persistence",
+        "Designed API routes and dynamic UI components",
+        "Developed using VS Code and Git version control",
+        "Integrated backend data handling for dynamic user interaction"
+      ]
+    },
+    {
+      "name": "Systems Programming (ICS 212)",
+      "summary": "Built and compiled C programs in a Unix/Linux environment.",
+      "highlights": [
+        "Compiled programs using GCC in a terminal environment",
+        "Used Makefiles for build automation",
+        "Worked with file I/O and debugging in command-line environments"
+      ]
     }
+  ],
+
+  "coursework": [
+    "Data Structures & Algorithms (ICS 311, ICS 211)",
+    "Systems Programming & Computer Architecture (ICS 212, ICS 312)",
+    "Software Engineering & Full-Stack Development (ICS 314, ICS 321)",
+    "Cybersecurity & Information Security (ICS 355, ICS 425, ICS 426)",
+    "Data Networks (ICS 451)"
   ]
 }
